@@ -1,0 +1,3 @@
+C:\Informatica Cluj\FixedCapBiMap\Debug\FixedCapBiMap.exe
+D:\Informatica Cluj\FixedCapBiMap Update\FixedCapBiMap\Debug\FixedCapBiMap.exe
+C:\Informatica Cluj\FixedCapBiMap Update\FixedCapBiMap\Debug\FixedCapBiMap.exe
