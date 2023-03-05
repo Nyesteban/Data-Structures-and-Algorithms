@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+C:\Informatica Cluj\Matrix\Matrix.cpp(150): warning C4715: 'Matrix::modify': not all control paths return a value
+  Matrix.vcxproj -> C:\Informatica Cluj\Matrix\x64\Debug\Matrix.exe
